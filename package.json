@@ -1,0 +1,19 @@
+{
+  "name": "on-element-scroll",
+  "version": "0.0.1",
+  "description": "A utility to help handle scroll events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scroll",
+    "events",
+    "handler",
+    "dom",
+    "browser",
+    "js"
+  ],
+  "author": "mikhail netkachev",
+  "license": "ISC"
+}
